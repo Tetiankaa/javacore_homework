@@ -21,7 +21,7 @@ public class Main {
         System.out.println(post);
 
 
-        ArrayList<String> titles = new <String>ArrayList();
+        ArrayList<String> titles = new <String> ArrayList();
         titles.add("hello");
 
         Comment comment = new Comment(1,"id labore ex et quam laborum","Eliseo@gardner.biz", "laudantium enim quasi est quidem magnam voluptate ipsam eos\\ntempora quo necessitatibus\\ndolor quam autem quasi\\nreiciendis et nam sapiente accusantium",titles);
