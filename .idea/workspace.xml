@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43eb3b69-d31d-4295-8070-d70c6d29ea82" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/src/homework2/part1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part1/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part2/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part2/Ultrabook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/part2/Workstation.java" afterDir="false" />
+    <list default="true" id="43eb3b69-d31d-4295-8070-d70c6d29ea82" name="Changes" comment="homework2, 50%">
+      <change afterPath="$PROJECT_DIR$/src/homework2/part3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/part3/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/part3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/part3/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/part3/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/part3/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -99,7 +96,8 @@
       <workItem from="1677870344554" duration="2066000" />
       <workItem from="1677872432381" duration="5879000" />
       <workItem from="1678213200942" duration="116000" />
-      <workItem from="1678648705433" duration="5892000" />
+      <workItem from="1678648705433" duration="6389000" />
+      <workItem from="1679220853090" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="homework1">
       <created>1678016544632</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678016544632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework2, 50%">
+      <created>1678656627589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678656627589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework1" />
+    <MESSAGE value="homework2, 50%" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2, 50%" />
   </component>
 </project>
