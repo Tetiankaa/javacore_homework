@@ -19,16 +19,16 @@ public class Main {
 
         //COMPOSITION
 //        Skills skills = new Skills(Title.JAVA,2);
-        Car car = new Car("kia",2015,250);
-        User userTanya = new User(1,"Tanya","Korsun","tanya@gmail.com",26,Gender.MALE,new ArrayList<>(),car);
-
-        ArrayList<Skills> skills= userTanya.getSkills();
-        skills.add(new Skills(Title.JS,1));
-        skills.add(new Skills(Title.C_PLUS_PLUS,5));
-        System.out.println(userTanya);
+//        Car car = new Car("kia",2015,250);
+//        User userTanya = new User(1,"Tanya","Korsun","tanya@gmail.com",26,Gender.MALE,new ArrayList<>(),car);
+//
+//        ArrayList<Skills> skills= userTanya.getSkills();
+//        skills.add(new Skills(Title.JS,1));
+//        skills.add(new Skills(Title.C_PLUS_PLUS,5));
+//        System.out.println(userTanya);
 
         //AGGREGATION
 //        User userT = new User(1,"tanya","korsun","tanya@gmail.com",26,Gender.MALE,Title.C_PLUS_PLUS,3.5,"skoda",2010,190);
-//        System.out.println(userT);// private Skills skills;
+//        System.out.println(userT);
     }
 }

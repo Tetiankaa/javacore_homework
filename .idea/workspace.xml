@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43eb3b69-d31d-4295-8070-d70c6d29ea82" name="Changes" comment="homework2 done">
+    <list default="true" id="43eb3b69-d31d-4295-8070-d70c6d29ea82" name="Changes" comment="homework2 corrected ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/homework3/part1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part1/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part1/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part1/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part2/Drum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part2/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part2/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework3/part2/Trumpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework2/part3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/part3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework2/part3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/part3/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,7 +103,7 @@
       <workItem from="1677872432381" duration="5879000" />
       <workItem from="1678213200942" duration="116000" />
       <workItem from="1678648705433" duration="6389000" />
-      <workItem from="1679220853090" duration="7105000" />
+      <workItem from="1679220853090" duration="17096000" />
     </task>
     <task id="LOCAL-00001" summary="homework1">
       <created>1678016544632</created>
@@ -115,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679225906434</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework2 corrected ArrayList">
+      <created>1679229111593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679229111593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +143,7 @@
     <MESSAGE value="homework1" />
     <MESSAGE value="homework2, 50%" />
     <MESSAGE value="homework2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework2 done" />
+    <MESSAGE value="homework2 corrected ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2 corrected ArrayList" />
   </component>
 </project>
